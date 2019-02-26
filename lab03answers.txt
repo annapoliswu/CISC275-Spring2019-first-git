@@ -1,0 +1,32 @@
+In your play directory, create four files. Make is so that: one is
+untracked; one is modified; one is staged; one is in the repo. Verify
+the state of your four files and ask another person to confirm you have
+those four files in four states.
+
+In this space, type the sequence of commands you used to achieve the final
+state of all four files:
+
+cd into folder
+git init
+git commit -m “init commit”
+created a repository
+git remote add origin https://github.com/annapoliswu/gitSetup.git 
+In repo
+	git add Main.java
+	git commit -m “added Main.java”
+	git push origin master
+Untracked
+	added plant.jpg file to directory/folder
+	did not git add
+Staged
+	git add 03.txt
+	edited 03.txt and saved
+	git add 03.txt
+Modified
+	git add Cat.java
+	edited Cat.java and saved
+	did not git add
+----------------------------------------------
+Paste the URL of your repository here:
+https://github.com/annapoliswu/CISC275-Spring2019-first-git.git
+
