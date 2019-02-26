@@ -1,2 +1,2 @@
 Username: annapoliswu
-Repository: https://github.com/annapoliswu/CISC275-Spring2019-first-git
+Repository: https://github.com/annapoliswu/CISC275-Spring2019-first-git.git

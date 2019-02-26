@@ -1,6 +1,6 @@
 # CISC275-Fall2018-first-git
 1. Create java files to make this code compile and run.
-	Created Dog.java, abstract class Animal is in it along with class Dog
+	Created Dog.java, abstract class Animal is in it along with class Dog.
 
 2. What five objects are created in the main?
 	Main creates an ArrayList dogs, a new Comparator object, and 3 new Dogs.
